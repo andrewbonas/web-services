@@ -5,7 +5,7 @@ sections:
     type: section_pricing
     background: gray
     title: Portfolio
-    subtitle: Online web examples
+    subtitle: Online web example
     pricing_plans:
       - title: Basic
         subtitle:  small businesses

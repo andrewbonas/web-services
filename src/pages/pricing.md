@@ -8,7 +8,7 @@ sections:
     subtitle: Online web examples
     pricing_plans:
       - title: Basic
-        subtitle: For small businesses
+        subtitle:  small businesses
         price: $5/m
         details: |-
           * Lorem ipsum dolor sit amet

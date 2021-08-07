@@ -4,7 +4,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/feature1.png
+    image: images/6.jpg
     image_alt: App preview on a phone and tablet
     title: Web Design and Development
     content: >

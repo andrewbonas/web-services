@@ -32,7 +32,6 @@ export default class SectionPricing extends React.Component {
                         {_.get(plan, 'subtitle', null) && (
                         <div className="plan-subtitle">{_.get(plan, 'subtitle', null)}</div>
                         )}
-                        <img></img>
                         {_.get(plan, 'price', null) && (
                         <div className="plan-price">{_.get(plan, 'price', null)}</div>
                         )}

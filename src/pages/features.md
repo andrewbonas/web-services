@@ -25,7 +25,7 @@ sections:
       Contact us for more information
     actions:
       - label: Free Trial
-        url: /signup
+        url: /contact
         style: primary
       - label: View Demo
         url: '#'

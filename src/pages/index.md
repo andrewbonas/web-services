@@ -24,9 +24,10 @@ sections:
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
-          The plaforms we use to build your site focus on a mobile first
-          platorm. Which means your users will get a great experience wether
-          they are on a mobile device or desktop computer
+          The tools we use to build your site have been designed on a responive
+          platform that focuses on a mobile first approach. Which means your
+          users will get a great experience wether they are on a mobile device
+          or desktop computer
         actions:
           - label: Learn More
             url: /features

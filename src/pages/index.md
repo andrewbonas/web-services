@@ -23,10 +23,10 @@ sections:
       - title: The Best Feature of Your Services
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          The plaforms we use to build your site focus on a mobile first
+          platorm. Which means your users will get a great experience wether
+          they are on a mobile device or desktop computer
         actions:
           - label: Learn More
             url: /features

@@ -27,7 +27,7 @@ sections:
           The tools we use to build your site have been designed on a responive
           platform that focuses on a mobile first approach. Which means your
           users will get a great experience wether they are on a mobile device
-          or desktop computer
+          or desktop computer.
         actions:
           - label: Learn More
             url: /features

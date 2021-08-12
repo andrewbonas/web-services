@@ -62,7 +62,7 @@ export default {
     SectionFaq,
     SectionFeatures,
     SectionHero,
-    
+    SectionPosts,
     SectionPricing,
     SectionReviews,
     Layout

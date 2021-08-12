@@ -6,9 +6,8 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Web Services
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: |
+      At xyz we offer High Quality custom built responsive websites. 
     actions:
       - label: Learn More
         url: /features
@@ -21,13 +20,14 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
     features:
-      - title: The Best Feature of Your Services
+      - title: Responsive Websites
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          The tools we use to build your site have been designed on a responive
+          platform that focuses on a mobile first approach. Which means your
+          users will get a great experience wether they are on a mobile device
+          or desktop computer.
         actions:
           - label: Learn More
             url: /features
@@ -92,11 +92,11 @@ sections:
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
+    title: We Are Here To Help!
+    subtitle: Contact us today to book your free consultation!
     actions:
-      - label: Get Started
-        url: /signup
+      - label: Get Started!
+        url: /contact
         style: primary
   - section_id: recent-posts
     type: section_posts

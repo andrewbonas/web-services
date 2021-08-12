@@ -4,27 +4,28 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/feature1.png
+    image: images/6.jpg
     image_alt: App preview on a phone and tablet
-    title: The Best Features of Your Services
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    title: Web Design and Development
+    content: >
+      Give your buisness an online presence with a personalized website. Choose
+      from a elegant single page design to a multiple page user interface site.
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      *   Multiple examples available...
 
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
+      *   Choose between multiple platforms to have your site built on.
 
-      * Phasellus ut enim non lorem venenatis rutrum.
+      *   Wordpress is also an option.
+
+      *   optimized webhosting and SEO to give your new site the greatest online
+      presence.
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      Contact us for more information
     actions:
-      - label: Free Trial
-        url: /signup
+      - label: Contact
+        url: /contact
         style: primary
       - label: View Demo
         url: '#'

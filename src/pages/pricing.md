@@ -4,11 +4,11 @@ sections:
   - section_id: pricing
     type: section_pricing
     background: gray
-    title: Pricing Plans
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    title: Portfolio
+    subtitle: Online web examples
     pricing_plans:
       - title: Basic
-        subtitle: For small businesses
+        subtitle:  small businesses
         price: $5/m
         details: |-
           * Lorem ipsum dolor sit amet
@@ -45,6 +45,23 @@ sections:
           - label: Order Now
             url: /signup
             style: secondary
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        price: lorem-ipsum
+        details: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        highlight: false
+        actions: []
+        type: pricing_plan
   - section_id: faq
     type: section_faq
     background: gray

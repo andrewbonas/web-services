@@ -12,12 +12,12 @@
                 "style": "link"
             },
             {
-                "label": "Features",
+                "label": "Services",
                 "url": "/features",
                 "style": "link"
             },
             {
-                "label": "Pricing",
+                "label": "Portfolio",
                 "url": "/pricing",
                 "style": "link"
             },
@@ -27,9 +27,10 @@
                 "style": "link"
             },
             {
-                "label": "Sign Up",
-                "url": "/signup",
-                "style": "primary"
+                "label": "Contact",
+                "url": "/contact",
+                "style": "primary",
+                "has_icon": false
             }
         ]
     },
@@ -129,8 +130,9 @@
                 "style": "link"
             }
         ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>."
+        "content": "&copy; Web Services. All rights reserved.  2021"
     },
     "title": "Azimuth",
-    "domain": "https://web-services-ad1cf.netlify.app"
+    "domain": "https://web-services-ad1cf.netlify.app",
+    "favicon": "images/favicon.ico"
 }

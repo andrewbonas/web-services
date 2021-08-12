@@ -93,7 +93,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: We Are Here To Help!
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Contact us today to book your free consultation!
     actions:
       - label: Get Started
         url: /signup

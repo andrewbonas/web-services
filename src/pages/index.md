@@ -95,7 +95,7 @@ sections:
     title: We Are Here To Help!
     subtitle: Contact us today to book your free consultation!
     actions:
-      - label: Get Started
+      - label: Get Started!
         url: /contact
         style: primary
   - section_id: recent-posts

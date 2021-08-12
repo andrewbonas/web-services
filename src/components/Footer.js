@@ -9,23 +9,6 @@ export default class Footer extends React.Component {
     render() {
         return (
             <footer id="colophon" className="site-footer">
-              {_.get(this.props, 'pageContext.site.siteMetadata.footer.sections', null) && (
-                (_.size(_.get(this.props, 'pageContext.site.siteMetadata.footer.sections', null)) > 0) && (
-                <div className="footer-top outer">
-                  <div className="inner">
-                    <div className="grid footer-widgets">
-                      {_.map(_.get(this.props, 'pageContext.site.siteMetadata.footer.sections', null), (section, section_idx) => {
-                          let component = _.upperFirst(_.camelCase(_.get(section, 'type', null)));
-                          let Component = components[component];
-                          return (
-                            <Component key={section_idx} {...this.props} section={section} site={this.props.pageContext.site} />
-                          )
-                      })}
-                    </div>
-                  </div>
-                </div>
-                )
-              )}
               <div className="footer-bottom outer">
                 <div className="inner">
                   {(_.get(this.props, 'pageContext.site.siteMetadata.footer.has_nav', null) && _.get(this.props, 'pageContext.site.siteMetadata.footer.nav_links', null)) && (

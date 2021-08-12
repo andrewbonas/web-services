@@ -38,7 +38,7 @@ export {
     SectionFaq,
     SectionFeatures,
     SectionHero,
-    SectionPosts,
+
     SectionPricing,
     SectionReviews,
     Layout

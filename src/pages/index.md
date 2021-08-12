@@ -96,7 +96,7 @@ sections:
     subtitle: Contact us today to book your free consultation!
     actions:
       - label: Get Started
-        url: /signup
+        url: /contact
         style: primary
   - section_id: recent-posts
     type: section_posts

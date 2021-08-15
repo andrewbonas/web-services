@@ -39,6 +39,7 @@ export default class SectionReviews extends React.Component {
               </div>
               )}
             </section>
+            */}
         );
     }
 }

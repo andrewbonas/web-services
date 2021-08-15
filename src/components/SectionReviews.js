@@ -39,7 +39,7 @@ export default class SectionReviews extends React.Component {
                 </div>
               </div>
               )}
-              */
+              */}
             </section>
             */
         );

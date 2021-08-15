@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image: images/web-design-3411373_1920_adobespark.png
-    image_alt: App preview
+    image_alt: Computer
     title: Web Services
     content: |
       At xyz we offer High Quality custom built responsive websites. 

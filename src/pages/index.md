@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/web-design-3411373_1920_adobespark.png
     image_alt: App preview
     title: Web Services
     content: |

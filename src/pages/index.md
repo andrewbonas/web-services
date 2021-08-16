@@ -7,7 +7,7 @@ sections:
     image_alt: Computer
     title: Web Services
     content: |
-      At xyz we offer High Quality custom built responsive websites. 
+      At Peaks we offer High Quality custom built responsive websites.
     actions:
       - label: Learn More
         url: /features

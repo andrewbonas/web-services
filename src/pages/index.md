@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/web_logo.png
+    image: images/Peaks-2.png
     image_alt: Computer
     title: Web Services
     content: >

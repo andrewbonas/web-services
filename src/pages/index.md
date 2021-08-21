@@ -55,8 +55,9 @@ sections:
         image: images/sigmund-QuusekRfTI8-unsplash.jpg
         image_alt: App user profile preview
         content: >
-          We will make sure that your needs are met. And take the time to make
-          sure that you are completly satisfied with the end product.
+          We will make sure that your needs are met every step of the way. Once
+          complete we will take the time to make sure that you are completly
+          satisfied with the end product.
         actions:
           - label: Learn More
             url: /features

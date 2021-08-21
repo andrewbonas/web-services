@@ -18,8 +18,9 @@ sections:
     background: gray
     title: Features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      We know that creating or expanding an online presence can be time
+      consuming and overwhelming. Below we have broken down a few key features
+      we use to help make your life easier.
     features:
       - title: Responsive Websites
         image: images/feature1.png

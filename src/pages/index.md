@@ -52,7 +52,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Working Together
-        image: images/mighty-squid.jpg
+        image: images/sigmund-QuusekRfTI8-unsplash.jpg
         image_alt: App user profile preview
         content: >
           We will make sure that your needs are met every step of the way. Once

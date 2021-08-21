@@ -16,7 +16,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: What we can do for you
+    title: Features
     subtitle: >-
       We know that creating or expanding an online presence can be time
       consuming and overwhelming. Below we have broken down a few key features

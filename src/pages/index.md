@@ -6,8 +6,9 @@ sections:
     image: images/web-design-3411373_1920_adobespark.png
     image_alt: Computer
     title: Web Services
-    content: |
-      ### We offer High Quality custom built responsive websites.
+    content: >
+      ### We create High Quality responsive websites that will help boost your
+      brand online.
     actions:
       - label: Learn More
         url: /features

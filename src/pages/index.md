@@ -40,10 +40,9 @@ sections:
       - title: Fast and Secure
         image: images/mighty-squid.jpg
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          We use the latest software and plugins available when building your
+          site as well as making sure your site has an SSL certificate
         actions:
           - label: Learn More
             url: /features

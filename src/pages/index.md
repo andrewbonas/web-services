@@ -38,7 +38,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Fast and Secure
-        image: images/mighty-squid.jpg
+        image: images/sigmund-QuusekRfTI8-unsplash.jpg
         image_alt: App users welcoming a new member
         content: >
           Nobody wants to wait for a slow site to load. We use the latest

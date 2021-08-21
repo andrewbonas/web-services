@@ -41,8 +41,9 @@ sections:
         image: images/mighty-squid.jpg
         image_alt: App users welcoming a new member
         content: >
-          We use the latest software and plugins available when building your
-          site as well as making sure your site has an SSL certificate
+          Nobody wants to wait for a slow site to load. We use the latest
+          software and plugins available when building your site as well as
+          making sure your site has an SSL certificate.
         actions:
           - label: Learn More
             url: /features

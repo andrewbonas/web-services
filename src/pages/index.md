@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/header2.png
+    image: images/header2-9054adac.png
     image2: images/header2.png
     image_alt: Computer
     image2_alt: Logo

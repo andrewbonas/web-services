@@ -3,8 +3,8 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/header.png
-    image2: images/header.png
+    image: images/header2.png
+    image2: images/header2.png
     image_alt: Computer
     image2_alt: Logo
     title: Web Services

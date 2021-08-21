@@ -6,7 +6,7 @@ sections:
     image: images/web_logo.png
     image2: images/web_logo.png
     image_alt: Computer
-    image2_alt: 
+    image2_alt: Logo
     title: Web Services
     content: >
       ##### We create High Quality responsive websites that will help boost your

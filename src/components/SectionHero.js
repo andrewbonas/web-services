@@ -20,7 +20,7 @@ export default class SectionHero extends React.Component {
                     {_.get(section, 'title', null) && (
                     <h2 className="block-title underline">{_.get(section, 'title', null)}</h2>
                     )}
-                    <img className="underline" src={withPrefix(_.get(section, 'image2', null))} alt={_.get(section, 'image_alt', null)} />
+                    <img src={withPrefix(_.get(section, 'image2', null))} alt={_.get(section, 'image_alt', null)} />
                     <div className="block-copy">
                       {markdownify(_.get(section, 'content', null))}
                     </div>

@@ -3,11 +3,14 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
-    image_alt: App preview
+    image: images/web-design-3411373_1920_adobespark.png
+    image2: images/header2.png
+    image_alt: Computer
+    image2_alt: Logo
     title: Web Services
-    content: |
-      At xyz we offer High Quality custom built responsive websites. 
+    content: >
+      ##### We create High Quality responsive websites that will help boost your
+      brand online.
     actions:
       - label: Learn More
         url: /features
@@ -17,8 +20,9 @@ sections:
     background: gray
     title: Features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      We know that creating or expanding an online presence can be time
+      consuming and overwhelming. Below we have broken down a few key features
+      we use to help make your life easier.
     features:
       - title: Responsive Websites
         image: images/feature1.png
@@ -35,13 +39,13 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Awesome Feature of Your Services
-        image: images/feature2.png
+      - title: Fast and Secure
+        image: images/sigmund-QuusekRfTI8-unsplash.jpg
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          Nobody wants to wait for a slow site to load. We use the latest
+          software and plugins available when building your site as well as
+          making sure your site has an SSL certificate.
         actions:
           - label: Learn More
             url: /features
@@ -49,13 +53,13 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Cool Feature of Your Services
-        image: images/feature3.png
+      - title: Working Together
+        image: images/mighty-squid.jpg
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          We will make sure that your needs are met every step of the way. Once
+          complete we will take the time to make sure that you are completly
+          satisfied with the end product.
         actions:
           - label: Learn More
             url: /features

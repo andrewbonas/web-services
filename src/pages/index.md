@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/web-design-3411373_1920_adobespark.png
+    image: images/Peaks-3.png
     image2: images/web_logo.png
     image_alt: Computer
     image2_alt: Logo

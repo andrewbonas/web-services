@@ -14,9 +14,7 @@ sections:
 
       *   Multiple examples available...
 
-      *   Choose between multiple platforms to have your site built on.
-
-      *   Wordpress is also an option.
+      *   Choose between predesigned site or custom built.
 
       *   optimized webhosting and SEO to give your new site the greatest online
       presence.

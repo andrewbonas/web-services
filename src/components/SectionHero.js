@@ -19,7 +19,6 @@ export default class SectionHero extends React.Component {
                   <div className="cell block-content">
                     {_.get(section, 'title', null) && (
                     <h2 className="block-title underline">{_.get(section, 'title', null)}</h2>
-                    <img src={withPrefix(_.get(section, 'image', null))} alt={_.get(section, 'image_alt', null)} />
                     )}
                     <div className="block-copy">
                       {markdownify(_.get(section, 'content', null))}

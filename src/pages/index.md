@@ -53,10 +53,9 @@ sections:
       - title: Working Together
         image: images/sigmund-QuusekRfTI8-unsplash.jpg
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          We will make sure that your needs are met. And take the time to make
+          sure that you are completly satisfied with the end product.
         actions:
           - label: Learn More
             url: /features

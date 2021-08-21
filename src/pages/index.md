@@ -50,7 +50,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Cool Feature of Your Services
+      - title: Working Together
         image: images/sigmund-QuusekRfTI8-unsplash.jpg
         image_alt: App user profile preview
         content: >-

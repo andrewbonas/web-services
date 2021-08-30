@@ -21,8 +21,8 @@ sections:
     title: Features
     subtitle: >-
       We know that creating or expanding an online presence can be time
-      consuming and overwhelming. Below we have broken down a few key features
-      we use to help make your life easier.
+      consuming and overwhelming. Here we have broken down a few key features we
+      use to help make your life easier.
     features:
       - title: Responsive Websites
         image: images/feature1.png

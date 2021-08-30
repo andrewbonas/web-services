@@ -5,10 +5,9 @@ sections:
     type: section_contact
     background: gray
     title: Contact
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+    content: >
+      Do you have any questions? Or would you like to schedule a consulation?
+      Send us a message and we will get back to you shortly.
     form_id: contactForm
     form_fields:
       - input_type: text

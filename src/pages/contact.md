@@ -6,7 +6,7 @@ sections:
     background: gray
     title: Contact
     content: >
-      Do you have any questions? Or would you like to schedule a consulation?
+      Do you have any questions? Or would you like to schedule a consultation?
       Send us a message and we will get back to you shortly.
     form_id: contactForm
     form_fields:
@@ -18,14 +18,6 @@ sections:
         name: email
         label: Email
         is_required: true
-      - input_type: select
-        name: subject
-        label: Subject
-        default_value: Please select
-        options:
-          - Error on the site
-          - Sponsorship
-          - Other
       - input_type: textarea
         name: message
         label: Message

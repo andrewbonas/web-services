@@ -1,7 +1,7 @@
 import React from "react";
 import _ from "lodash";
 
-import { htmlToReact, classNames, markdownify } from "../utils";
+import { htmlToReact, classNames, withPrefix, markdownify } from "../utils";
 
 export default class SectionPricing extends React.Component {
   render() {
@@ -31,7 +31,10 @@ export default class SectionPricing extends React.Component {
             <div className="row">
               <div className="cell plan">
                 <div className="screen">
-                  <img src="https://i.imgur.com/aFFEZ9U.jpg"></img>
+                  <img
+                    src={withPrefix(_.get(section, "image", null))}
+                    alt={_.get(section, "image_alt", null)}
+                  />
                 </div>
               </div>
             </div>

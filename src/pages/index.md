@@ -28,7 +28,7 @@ sections:
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
-          The tools we use to build your site have been designed on a responive
+          The tools we use to build your site have been designed on a responsive
           platform that focuses on a mobile first approach. Which means your
           users will get a great experience wether they are on a mobile device
           or desktop computer.

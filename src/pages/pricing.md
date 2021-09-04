@@ -2,6 +2,8 @@
 title: Pricing
 sections:
   - section_id: pricing
+    image: images/harbourhealthwellness.png
+    image_alt: Harbour 
     type: section_pricing
     background: gray
     title: Portfolio

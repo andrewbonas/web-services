@@ -13,13 +13,7 @@ export default class Footer extends React.Component {
                 <div className="inner">
                   {(_.get(this.props, 'pageContext.site.siteMetadata.footer.has_nav', null) && _.get(this.props, 'pageContext.site.siteMetadata.footer.nav_links', null)) && (
                   <div className="footer-nav">
-                    <ul className="menu">
-                      {_.map(_.get(this.props, 'pageContext.site.siteMetadata.footer.nav_links', null), (action, action_idx) => (
-                      <li key={action_idx} className="menu-item"> 
-                        <ActionLink {...this.props} action={action} />
-                      </li>
-                      ))}
-                    </ul>
+                   
                   </div>
                   )}
                   <div className="site-info">

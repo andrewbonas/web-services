@@ -3,6 +3,9 @@ title: Pricing
 sections:
   - section_id: pricing
     image: images/harbourhealthwellness.png
+    image1: images/demosite.png
+    image2: images/demosite.png
+
     image_alt: Harbour 
     type: section_pricing
     background: gray

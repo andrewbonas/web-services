@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image: images/web-design-3411373_1920_adobespark.png
-    image2: images/header2.png
+    image2: images/header-0.png
     image_alt: Computer
     image2_alt: Logo
     title: Web Services

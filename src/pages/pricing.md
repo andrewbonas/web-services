@@ -23,7 +23,7 @@ seo:
       value: Portfolio
       keyName: property
     - name: 'og:description'
-      value: This is the porftolio page
+      value: This is the portfolio page
       keyName: property
 template: landing
 ---

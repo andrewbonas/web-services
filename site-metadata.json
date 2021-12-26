@@ -13,17 +13,12 @@
             },
             {
                 "label": "Services",
-                "url": "/features",
+                "url": "/services",
                 "style": "link"
             },
             {
                 "label": "Portfolio",
                 "url": "/pricing",
-                "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide",
                 "style": "link"
             },
             {

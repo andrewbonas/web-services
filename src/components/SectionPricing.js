@@ -30,7 +30,7 @@ export default class SectionPricing extends React.Component {
           <div className="grid">
             <div className="row">
               <div className="cell plan">
-                <div className="screen">
+                <div className="screens screen0">
                   <img
                     src={withPrefix(_.get(section, "image", null))}
                     alt={_.get(section, "image_alt", null)}
@@ -40,7 +40,7 @@ export default class SectionPricing extends React.Component {
             </div>
             <div className="row">
               <div className="cell plan">
-                <div className="screen">
+                <div className="screens screen1">
                 <img
                     src={withPrefix(_.get(section, "image2", null))}
                     alt={_.get(section, "image_alt", null)}
@@ -51,7 +51,7 @@ export default class SectionPricing extends React.Component {
 
             <div className="row">
               <div className="cell plan">
-                <div className="screen">
+                <div className="screens screen2">
                 <img
                     src={withPrefix(_.get(section, "image1", null))}
                     alt={_.get(section, "image_alt", null)}

@@ -1,4 +1,5 @@
-.screen {
+.screens 
+ {
 	display: block;
 	width: 350px;
 	height: 400px;
@@ -7,8 +8,7 @@
 	border-radius: 5px;
 	margin: 0 auto;
 }
-.screen img {
-	bottom: -550px;
+.screens img {
 	width: 100%;
 	height: auto;
 	position: absolute;
@@ -21,7 +21,20 @@
 	-o-transition: top 11s;
 	transition: bottom 11s;
 }
-.screen:hover img {
+
+.screen0 img {
+	bottom: -550px;
+}
+
+.screen1 img {
+	bottom: -787px;
+}
+
+.screen2 img {
+	bottom: -724px;
+}
+
+.screens:hover img {
   bottom: 0;
   -webkit-transition: all 11s;
   -moz-transition: all 11s;

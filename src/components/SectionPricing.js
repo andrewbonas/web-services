@@ -10,7 +10,7 @@ export default class SectionPricing extends React.Component {
       <section
         id={_.get(section, "section_id", null)}
         className={
-          "block pricing-block bg-" +
+          "block contact-block bg-" +
           _.get(section, "background", null) +
           " outer"
         }

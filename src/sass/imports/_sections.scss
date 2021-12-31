@@ -572,7 +572,13 @@
   }
 
   &.bg-accent {
-    background: $color-primary;
+    background-image: linear-gradient(rgba(117, 116, 116, 0.527),rgba(99, 96, 96, 0.5)), url('../../static/images/hero.png') ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+   /* 
+   Original background
+   background: $color-primary;
     background: -webkit-gradient(
       linear,
       left top,
@@ -581,8 +587,9 @@
       to($color-secondary)
     );
     background: linear-gradient(to right, $color-primary, $color-secondary);
-    color: #fff;
+    */
 
+    color: #fff;
     a {
       &:not(.button) {
         color: #fff;

@@ -27,7 +27,7 @@ sections:
           - Sponsorship
           - Other
       - input_type: textarea
-        name: messagetee
+        name: message
         label: Message
       - input_type: checkbox
         name: consent

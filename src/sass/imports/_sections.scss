@@ -76,6 +76,7 @@
     align-items: center;
     -ms-flex-pack: center;
     justify-content: center;
+    flex-direction: column-reverse;
   }
 
   .cell {
@@ -84,7 +85,7 @@
 }
 
 .logo {
-  max-width: 70%;
+  max-width: 280px;
   height: auto;
 }
 
@@ -195,7 +196,7 @@
       -ms-flex: 0 0 66.666%;
       flex: 0 0 66.666%;
       max-width: 66.666%;
-      text-align: left;
+      text-align: center;
     }
 
     .block-buttons {

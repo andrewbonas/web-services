@@ -42,3 +42,19 @@
   -o-transition: all 11s;
   transition: all 11s;
 }
+
+.computer-image {
+	opacity: 0.4;
+}
+
+.computer-image {
+  filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+  filter: grayscale(1); /* Microsoft Edge and Firefox 35+ */
+}
+
+/* Disable grayscale on hover */
+.computer-image:hover {
+  -webkit-filter: grayscale(0);
+  filter: none;
+}

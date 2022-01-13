@@ -9,7 +9,7 @@ sections:
     image2_alt: Logo
     title: Web Services
     content: >
-      ##### We create High Quality responsive websites that will help boost your
+     We create High Quality responsive websites that will help boost your
       brand online.
     actions:
       - label: Learn More

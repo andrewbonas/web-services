@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Services
 sections:
   - section_id: features
     type: section_content
@@ -8,15 +8,15 @@ sections:
     image_alt: App preview on a phone and tablet
     title: Web Design and Development
     content: >
-      Give your buisness an online presence with a personalized website. Choose
+      Give your business an online presence with a personalized website. Choose
       from a elegant single page design to a multiple page user interface site.
 
 
       *   Multiple examples available...
 
-      *   Choose between predesigned site or custom built.
+      *   Choose between pre designed site or custom built.
 
-      *   optimized webhosting and SEO to give your new site the greatest online
+      *   optimized web hosting and SEO to give your new site the greatest online
       presence.
 
 
@@ -26,7 +26,7 @@ sections:
         url: /contact
         style: primary
 seo:
-  title: Features
+  title: Services
   description: This is the features page
   extra:
     - name: 'og:type'

@@ -13,7 +13,7 @@ sections:
       brand online.
     actions:
       - label: Learn More
-        url: /features
+        url: /services
         style: primary
   - section_id: features
     type: section_features
@@ -34,7 +34,7 @@ sections:
           or desktop computer.
         actions:
           - label: Learn More
-            url: /features
+            url: /services
             style: secondary
             has_icon: true
             icon: arrow-right
@@ -48,7 +48,7 @@ sections:
           making sure your site has an SSL certificate.
         actions:
           - label: Learn More
-            url: /features
+            url: /services
             style: secondary
             has_icon: true
             icon: arrow-right
@@ -58,11 +58,11 @@ sections:
         image_alt: App user profile preview
         content: >
           We will make sure that your needs are met every step of the way. Once
-          complete we will take the time to make sure that you are completly
+          complete we will take the time to make sure that you are completely
           satisfied with the end product.
         actions:
           - label: Learn More
-            url: /features
+            url: /services
             style: secondary
             has_icon: true
             icon: arrow-right
@@ -107,7 +107,7 @@ sections:
     background: gray
     title: Latest Posts
 seo:
-  title: Stackbit Azimuth Theme
+  title: Peaks Web Services
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'

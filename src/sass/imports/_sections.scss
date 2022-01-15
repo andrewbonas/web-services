@@ -67,6 +67,14 @@
   }
 }
 
+.hero-block .grid {
+  flex-direction: column-reverse;
+}
+
+.cta-block .grid {
+  flex-direction: column;
+}
+
 .hero-block,
 .text-block,
 .features-block,
@@ -76,7 +84,6 @@
     align-items: center;
     -ms-flex-pack: center;
     justify-content: center;
-    flex-direction: column-reverse;
   }
 
   .cell {

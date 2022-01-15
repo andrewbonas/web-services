@@ -13,12 +13,12 @@
             },
             {
                 "label": "Services",
-                "url": "/features",
+                "url": "/services",
                 "style": "link"
             },
             {
                 "label": "Portfolio",
-                "url": "/pricing",
+                "url": "/portfolio",
                 "style": "link"
             },
             {
@@ -125,7 +125,7 @@
                 "style": "link"
             }
         ],
-        "content": "&copy; Web Services. All rights reserved.  2021"
+        "content": "&copy; Peaks Web Services. All rights reserved.  2022"
     },
     "title": "Peaks",
     "domain": "https://web-services-ad1cf.netlify.app",

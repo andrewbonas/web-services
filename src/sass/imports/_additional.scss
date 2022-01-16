@@ -64,3 +64,15 @@
 #reviews {
 	display: none;
 }
+
+.not-found {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.not-found img {
+	max-width:100%; 
+	height:auto;
+}

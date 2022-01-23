@@ -49,7 +49,7 @@ export default {
     ActionLink,
     BlogPostFooter,
     CtaButtons,
-    Footer,
+   //  Footer, 
     FooterForm,
     FooterNav,
     FooterText,

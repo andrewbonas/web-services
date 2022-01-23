@@ -27,7 +27,7 @@ export default class SectionPricing extends React.Component {
         </div>
 
         <div className="inner">
-          <div className="grid">
+          <div className="grid center">
             <div className="row">
               <div className="cell plan">
                 <div className="screens screen0">

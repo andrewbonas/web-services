@@ -12,12 +12,12 @@ sections:
       from a elegant single page design to a multiple page user interface site.
 
 
-      *   Multiple examples available...
+      *   Optimized web hosting and SEO to make sure all potential customers find you.
 
-      *   Choose between pre designed site or custom built.
+      *   Choose between a pre designed or custom built site.
 
-      *   optimized web hosting and SEO to give your new site the greatest online
-      presence.
+      *   Currently have a website that you need help with? Let us take a look.
+
 
 
       Contact us for more information

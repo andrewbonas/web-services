@@ -9,8 +9,7 @@ sections:
     image2_alt: Logo
     title: Web Services
     content: >
-     We create High Quality responsive websites that will help boost your
-      brand online.
+     We are a Vancouver based company focusing on creating high quality responsive websites for small to medium sized businesses at an affordable price.
     actions:
       - label: Learn More
         url: /services
@@ -28,7 +27,7 @@ sections:
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
-          The tools we use to build your site have been designed on a responsive
+          The tools we use to create your site have been designed on a responsive
           platform that focuses on a mobile first approach. Which means your
           users will get a great experience wether they are on a mobile device
           or desktop computer.

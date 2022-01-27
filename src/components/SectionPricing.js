@@ -15,6 +15,7 @@ export default class SectionPricing extends React.Component {
           " outer"
         }
       >
+       {/*
         <div className="block-header inner-small">
           {_.get(section, "title", null) && (
             <h2 className="block-title">{_.get(section, "title", null)}</h2>
@@ -25,6 +26,7 @@ export default class SectionPricing extends React.Component {
             </p>
           )}
         </div>
+          */}
 
         <div className="inner">
           <div className="grid center">
@@ -35,6 +37,7 @@ export default class SectionPricing extends React.Component {
                     src={withPrefix(_.get(section, "image", null))}
                     alt={_.get(section, "image_alt", null)}
                   />
+                <div className="port-label">Created with HTML/CSS</div>
                 </div>
               </div>
             </div>
@@ -45,6 +48,7 @@ export default class SectionPricing extends React.Component {
                     src={withPrefix(_.get(section, "image2", null))}
                     alt={_.get(section, "image_alt", null)}
                   />
+                <div className="port-label">Created with React</div>
                 </div>
               </div>
             </div>
@@ -56,6 +60,7 @@ export default class SectionPricing extends React.Component {
                     src={withPrefix(_.get(section, "image1", null))}
                     alt={_.get(section, "image_alt", null)}
                   />
+                <div className="port-label">Created with WordPress</div>
                 </div>
               </div>
             </div>

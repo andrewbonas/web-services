@@ -11,8 +11,8 @@
 	width: 100%;
 	height: auto;
 	position: absolute;
-	z-index: 0;
   margin:0;
+	z-index: 0;
   padding:0;
 	-webkit-transition: top 11s;
 	-moz-transition: top 11s;
@@ -79,4 +79,25 @@
 
 .center {
 	justify-content: center;
+}
+
+.port-label {
+	display: none;
+	position: absolute;
+	bottom: 0px;
+	left: 50%;
+  transform: translate(-50%, -50%);
+	width: 100%;
+	text-align: center;
+	background-color:rgba(0, 0, 0, 0.5);
+	color: white;
+	padding: 2px;
+}
+
+.screens:hover .port-label{
+	display: block;
+}
+
+img {
+	border-radius: 5px;
 }

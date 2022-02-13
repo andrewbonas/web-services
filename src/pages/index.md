@@ -107,27 +107,27 @@ sections:
     title: Latest Posts
 seo:
   title: Peaks Web Services
-  description: The preview of the Azimuth theme
+  description:  Vancouver based company focusing on creating high quality responsive websites for small to medium sized businesses at an affordable price.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Azimuth Theme
+      value: Peaks Web Services
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: The preview of Peaks Web
       keyName: property
     - name: 'og:image'
-      value: images/hero.png
+      value: images/peakfeature.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Azimuth Theme
+      value: Peaks Web Services
     - name: 'twitter:description'
-      value: The preview of the Azimuth theme
+      value: The preview of Peaks Web
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true

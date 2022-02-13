@@ -36,7 +36,7 @@
                 "image": "images/logo-alt.svg",
                 "image_url": "/",
                 "image_alt": "Footer logo",
-                "content": "Stackbit theme demo"
+                "content": "Peaks Web Services"
             },
             {
                 "type": "footer_nav",
@@ -127,7 +127,7 @@
         ],
         "content": "&copy; Peaks Web Services. All rights reserved.  2022"
     },
-    "title": "Peaks",
-    "domain": "https://web-services-ad1cf.netlify.app",
+    "title": "Peaks Web Services",
+    "domain": "https://www.peaksweb.ca",
     "favicon": "images/favicon.ico?"
 }

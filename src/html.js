@@ -9,6 +9,7 @@ export default function HTML(props) {
       </head>
       <body {...props.bodyAttributes}>
         {props.preBodyComponents}
+       <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-620a9df160727f80"></script>
         <noscript key="noscript" id="gatsby-noscript">
           This app works best with JavaScript enabled.
         </noscript>

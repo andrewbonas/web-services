@@ -1,6 +1,7 @@
 {
     "base_font": "nunito-sans",
     "palette": "blue",
+    "siteUrl": "https://www.peaksweb.ca",
     "header": {
         "logo_img": "images/web_logo.png",
         "logo_img_alt": "Logo",

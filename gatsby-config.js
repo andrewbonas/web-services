@@ -9,6 +9,7 @@ module.exports = {
         `gatsby-transformer-remark`,
         `gatsby-plugin-sitemap`,
         `gatsby-plugin-robots-txt`,
+        `gatsby-plugin-minify`,
         {
             resolve: `gatsby-source-filesystem`,
             options: {

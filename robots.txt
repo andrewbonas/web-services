@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.peaksweb.ca/sitemap/sitemap-index.xml
+Host: https://www.peaksweb.ca

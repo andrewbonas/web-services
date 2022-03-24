@@ -3,6 +3,8 @@ import _ from 'lodash';
 
 import {htmlToReact, markdownify} from '../utils';
 import FormField from './FormField';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import {faPhone, faLocationDot, faEnvelope } from '@fortawesome/free-solid-svg-icons'
 
 export default class SectionContact extends React.Component {
     render() {
@@ -36,7 +38,24 @@ export default class SectionContact extends React.Component {
                     <button type="submit" className="button">{_.get(section, 'submit_label', null)}</button>
                   </div>
                 </form>
+                <div>
+                  <ul className="contact-info">
+                    <li className="menu contact-center">
+                      <div><FontAwesomeIcon icon={faLocationDot} size="2x" /></div>
+                      <div>Vancouver, BC</div>
+                    </li>
+                    <li className="menu contact-center">
+                      <div><FontAwesomeIcon icon={faEnvelope} size="2x" /></div>
+                      <div>peakswebservices<br />@gmail.com</div>
+                    </li>
+                    <li className="menu contact-center">
+                      <div><FontAwesomeIcon icon={faPhone} size="2x" /></div>
+                      <div>222-222-2222</div>
+                    </li>
+                  </ul>  
+                </div>
               </div>
+              
             </section>
         );
     }

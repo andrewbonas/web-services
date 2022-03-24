@@ -5,6 +5,7 @@ module.exports = {
     siteMetadata: siteMetadata,
     plugins: [
         `gatsby-plugin-react-helmet`,
+        `gatsby-plugin-fontawesome-css`,
         `gatsby-source-data`,
         `gatsby-transformer-remark`,
         `gatsby-plugin-sitemap`,

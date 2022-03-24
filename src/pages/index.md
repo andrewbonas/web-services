@@ -29,7 +29,7 @@ sections:
         content: >
           The tools we use to create your site have been designed on a responsive
           platform that focuses on a mobile first approach. Which means your
-          users will get a great experience wether they are on a mobile device
+          users will get a great experience whether they are on a mobile device
           or desktop computer.
         actions:
           - label: Learn More

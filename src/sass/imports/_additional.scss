@@ -101,3 +101,13 @@
 img {
 	border-radius: 5px;
 }
+
+.contact-info {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.contact-center {
+	text-align: center;
+}

@@ -50,7 +50,7 @@ export default class SectionContact extends React.Component {
                     </li>
                     <li className="menu contact-center">
                       <div><FontAwesomeIcon icon={faPhone} size="2x" /></div>
-                      <div>222-222-2222</div>
+                      <div>778-805-4887</div>
                     </li>
                   </ul>  
                 </div>

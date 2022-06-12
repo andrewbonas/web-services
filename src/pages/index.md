@@ -9,7 +9,7 @@ sections:
     image2_alt: Logo
     title: Web Services
     content: >
-     We are a Vancouver based company focusing on creating high quality responsive websites for small to medium sized businesses at an affordable price.
+     Peaks Web Services is a Vancouver based company focusing on creating high quality responsive websites for small to medium sized businesses at an affordable price.
     actions:
       - label: Learn More
         url: /services
@@ -107,7 +107,7 @@ sections:
     title: Latest Posts
 seo:
   title: Peaks Web Services
-  description:  Vancouver based company focusing on creating high quality responsive websites for small to medium sized businesses at an affordable price.
+  description:  Peaks Web Services is a Vancouver based company focusing on creating high quality responsive websites for small to medium sized businesses at an affordable price.
   extra:
     - name: 'og:type'
       value: website

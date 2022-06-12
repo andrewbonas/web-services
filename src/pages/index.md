@@ -116,7 +116,10 @@ seo:
       value: Peaks Web Services
       keyName: property
     - name: 'og:description'
-      value: The preview of Peaks Web
+      value: Peaks Web Services is a Vancouver based company focusing on creating high quality responsive websites for small to medium sized businesses at an affordable price.
+      keyName: property
+    - name: 'og:keywords'
+      value: web design, website design, wordpress design, website creators, web design company, website designer near me, web development, web services, create website, new website, build website, vancouver website, vancouver, squamish web design.
       keyName: property
     - name: 'og:image'
       value: images/peakfeature.png
